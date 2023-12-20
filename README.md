@@ -1,0 +1,1 @@
+This is a sample Spring Boot project demonstrating integration with RabbitMQ for asynchronous messaging.
